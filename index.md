@@ -13,7 +13,7 @@ layout: default
 
 {% include 06-experience.md %}
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+ Syntax       Description 
+ -----------  ----------- 
+ Header       Title       
+ Paragraph    Text        
