@@ -1,18 +1,24 @@
 ---
 layout: default
 ---
-
-{% include 01-name.md %}
-
-{% include 02-image.md %}
-
-<br>
-
-{% include 03-links.md %}
-
-<br>
-
-{% include 04-lists.md %}
+<table>
+  <tr>
+    <td>
+      {% include 01-name.md %}
+    </td>
+     <td>
+      {% include 02-image.md %}
+    </td>
+  </tr>
+   <tr>
+    <td>
+      {% include 03-links.md %}
+    </td>
+     <td>
+      {% include 04-lists.md %}
+    </td>
+  </tr>
+ </table>
 
 <br>
 
