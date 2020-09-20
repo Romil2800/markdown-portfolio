@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+# Here is the list of my favourite list:
+- Long walk of the beach
+- Disco Dancing
