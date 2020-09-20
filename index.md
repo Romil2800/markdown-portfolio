@@ -12,8 +12,3 @@ layout: default
 {% include 05-emphasis.md %}
 
 {% include 06-experience.md %}
-
- Syntax       Description 
- -----------  ----------- 
- Header       Title       
- Paragraph    Text        
