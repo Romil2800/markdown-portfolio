@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 {% include 01-name.md %}
 
 {% include 02-image.md %}
@@ -13,3 +12,8 @@ layout: default
 {% include 05-emphasis.md %}
 
 {% include 06-experience.md %}
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
